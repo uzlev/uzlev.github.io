@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# This is the Site about Jake & Elwood Blues (The Blues Brothers)
