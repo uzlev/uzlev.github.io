@@ -2,4 +2,9 @@
 
 Jake and Elwood Blues sind The Blues Brothers, die der Nonne, die sie im Waisenhaus groﬂgezogen hat, helfen, ihre Steuerschuld von 5000 Dollar zu zahlen, da das Haus ansonsten droht geschlossen zu werden...
 
-## Cool, black and white, musically, git the blues
+## Charaktereigenschaften
+
+* cool
+* black and white
+* musically
+* git the blues
